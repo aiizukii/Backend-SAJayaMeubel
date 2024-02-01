@@ -64,7 +64,7 @@ module.exports = {
       });
 
       const mailOptions = {
-        from: "backendmaxxi@gmail.com",
+        from: "s.a.jayameubel1@gmail.com",
         to: email,
         subject: "Reset Password",
         html: `   <center style="background-color: #F1F1F1; padding-top: 15px; padding-bottom: 15px;">
