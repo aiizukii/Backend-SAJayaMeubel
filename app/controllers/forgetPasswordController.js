@@ -58,8 +58,8 @@ module.exports = {
         secure: true,
         service: "gmail",
         auth: {
-          user: "backendmaxxi@gmail.com",
-          pass: "dcvwvspurizhczcm",
+          user: "s.a.jayameubel1@gmail.com",
+          pass: "vsvtlmpopwqgycjf",
         },
       });
 
