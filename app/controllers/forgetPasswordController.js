@@ -96,7 +96,7 @@ module.exports = {
                             margin: 2px 2px; color: white;
                             padding: 7px 6px;
                             transition-duration: 0.4s;" 
-                            href='https://reset-maxxi.vercel.app/reset?token=${token}' target="_blank" rel="reset">Reset Password</a>
+                            href='https://reset-password-sajayameubel.vercel.app/reset?token=${token}' target="_blank" rel="reset">Reset Password</a>
                     </button>
                   </center>
               <p style="font-size: 17px; color:black;font-weight: bold; text-align: left; font-family: Arial, sans-serif">Note:</p>
