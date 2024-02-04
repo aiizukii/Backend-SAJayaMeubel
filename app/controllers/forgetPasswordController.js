@@ -78,7 +78,7 @@ module.exports = {
                         border: none;
                         transition-duration: 0.4s;
                         cursor: pointer;
-                        background-color: #6A76B9;
+                        background-color: #4B1979;
                         border-radius: 12px;
                         margin-top: 20px;
                         margin-bottom: 20px;
