@@ -74,7 +74,7 @@ const {
 const {
   getNotif,
   deleteAllDataNotif,
-} = require("../app/controllers/notifController");
+} = require("../app/controllers/notifControllers");
 
 const router = require("express").Router();
 
