@@ -70,11 +70,11 @@ const {
   resetPassView,
   resetPass,
 } = require("../app/controllers/forgetPasswordController");
-// const { deleteAllDataPass } = require("../app/controllers/passengerController");
-// const {
-//   getNotif,
-//   deleteAllDataNotif,
-// } = require("../app/controllers/notifController");
+
+const {
+  getNotif,
+  deleteAllDataNotif,
+} = require("../app/controllers/notifController");
 
 const router = require("express").Router();
 

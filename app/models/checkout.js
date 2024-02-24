@@ -15,10 +15,7 @@ module.exports = (sequelize, DataTypes) => {
       this.belongsTo(models.Product, {
         foreignKey: "productId",
         as: "Product",
-      }); // Perbarui foreign key
-      // this.hasMany(models.Ticket, {
-      //   foreignKey: "ticketsId",
-      // });
+      }); 
     }
   }
   Checkout.init(
