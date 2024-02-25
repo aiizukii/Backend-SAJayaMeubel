@@ -13,7 +13,7 @@ module.exports = {
           image2: "",
           image3: "",
           typebarang: "Sofa",
-          deskripsibarang: "Semua barang Pre Order (maksimal 7 hari)",  "Bahan: Kayu akasia bayur",  "Bonus Bantal 10 pcs dan 1 buah meja",  "Free ongkir wilayah Bandar Lampung",
+          deskripsibarang: "Semua barang Pre Order (maksimal 7 hari)" "Bahan: Kayu akasia bayur" "Bonus Bantal 10 pcs dan 1 buah meja" "Free ongkir wilayah Bandar Lampung",
           stockbarang: 10,
           satuanbarang: "pcs",
           price: 2800000,
