@@ -39,7 +39,7 @@ module.exports = {
           id: uuid(),
           kodebarang: "3",
           namabarang: "Sofa L",
-          image: "https://i.ibb.co/565L0QL/Untitled-design-3.png",
+          image: "https://i.ibb.co/fYNj7vd/Untitled-design-4.png",
           image2: "",
           image3: "",
           typebarang: "Sofa",
