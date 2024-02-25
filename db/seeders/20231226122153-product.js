@@ -13,7 +13,7 @@ module.exports = {
           image2: "",
           image3: "",
           typebarang: "Sofa",
-          deskripsibarang: "Semua barang Pre Order (maksimal 7 hari)                                                              Bahan: Kayu akasia bayur                                   Bonus Bantal 10 pcs dan 1 buah meja                               Free ongkir wilayah Bandar Lampung                          Refund Policy:                                               1.Barang yang sudah di terima tidak dapat di batalkan atau dikembalikan.                             2.Barang yang sudah diterima artinya sudah sesuai pesanan.                               3. Jika ada kerusakan manufaktur / cacat produksi, 100% uang akan kembali atau mendapatkan barang baru",
+          deskripsibarang: "Semua barang Pre Order (maksimal 7 hari)                                                              Bahan: Kayu akasia bayur                                   Bonus Bantal 10 pcs dan 1 buah meja                               Free ongkir wilayah Bandar Lampung                          Refund Policy:                                               1.Barang yang sudah di terima tidak dapat di batalkan atau dikembalikan.             2.Barang yang sudah diterima artinya sudah sesuai pesanan.            3. Jika ada kerusakan manufaktur / cacat produksi, 100% uang akan kembali atau mendapatkan barang baru",
           stockbarang: 10,
           satuanbarang: "pcs",
           price: 2800000,
